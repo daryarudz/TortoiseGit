@@ -1,5 +1,5 @@
 #include "std.h"
-
+// operationns
 int main()
 {
 	int a, b;
